@@ -23,7 +23,7 @@ I am a sociologist at the Charles University with a focus on political communica
 
 🤔 I am looking for help with:
 - Experimenting with Transformer models (BERT/[CZERT](https://github.com/kiv-air/Czert)/[Slavic BERT](https://github.com/deepmipt/Slavic-BERT-NER)) for NLP tasks on Czech (social) media corpus. 
-- Finalization of my code into standalone R libraries (or PL improvements) so they could benefit others
+- Finalization of my code into standalone R libraries (or PL improvements of original packages) so they could benefit others
 
 <!--
 **opop999/opop999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
