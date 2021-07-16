@@ -16,15 +16,14 @@ I am a sociologist at the Charles University with a focus on political communica
 - Advanced data analysis and visualizations
 - Applications of NLP & ML on political discourse 
 
-🤔 I am looking for help with:
-- Experimenting with Transformer models (BERT/[CZERT](https://github.com/kiv-air/Czert)/[Slavic BERT](https://github.com/deepmipt/Slavic-BERT-NER) - for NLP tasks on Czech (social) media corpus. 
-- Finalization of my code into standalone R libraries (or PL improvements) so they could benefit others
-
 👯 I am currently working on:
 - Transparency International: Several solutions for automated data extraction and analysis in the context of the 2021 Czech parliamentary elections monitoring
 - Covid pandemic, psychological health, and media sources: Analysis of an international survey dataset from the "Pandemic Emergency in Social Perspective" project
 - Personal projects: Automated quantitative analysis of Czech political discourse on migration, NLP analysis of interview transcripts with Holocaust survivors, Web App to aid non-native Czech speakers with syntax using existing models (Deepl, Lindat) with translation into auxiliary language back into Czech.
 
+🤔 I am looking for help with:
+- Experimenting with Transformer models (BERT/[CZERT](https://github.com/kiv-air/Czert)/[Slavic BERT](https://github.com/deepmipt/Slavic-BERT-NER) - for NLP tasks on Czech (social) media corpus. 
+- Finalization of my code into standalone R libraries (or PL improvements) so they could benefit others
 
 <!--
 **opop999/opop999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
