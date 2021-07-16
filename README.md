@@ -4,7 +4,7 @@ I am a sociologist at the Charles University with a focus on political communica
 
 🔭 Experience:
 - Languages: R (advanced), SQL (intermediate), Python, (fundamentals), Bash (fundamentals).
-- Statistics: Regression modeling, Factor analysis, Structural Equation Modeling (lavaan).
+- Statistics: Regression modeling, Factor analysis, Structural Equation Modeling (lavaan), Clustering.
 - CI/CD: GitHub Actions.
 - Containerization tools: Docker.
 - Cloud & Big Data: Google Cloud Platform, Keboola, Spark.
