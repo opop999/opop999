@@ -10,13 +10,13 @@ I am a sociologist at the Charles University with a focus on political communica
 - Cloud & Big Data: Google Cloud Platform, Keboola, Spark
 - BI tools: Google Data Studio, Power BI, Tableau 
 
-- 🌱 Interested in:
+🌱 Interested in:
 - End-to-end open source data solutions
 - Building automatic data pipelines
 - Advanced data analysis and visualizations
 - Applications of NLP & ML on political discourse 
 
-- 🤔 I am looking for help with:
+🤔 I am looking for help with:
 - Experimenting with Transformer models (BERT/[CZERT](https://github.com/kiv-air/Czert)/[Slavic BERT](https://github.com/deepmipt/Slavic-BERT-NER) - for NLP tasks on Czech (social) media corpus. 
 - Finalization of my code into standalone R libraries (or PL improvements) so they could benefit others
 
