@@ -3,7 +3,7 @@
 I am a sociologist at the Charles University with a focus on political communication. I am also interested in how technology tools, such as NLP, big data analysis, and machine learning could benefit social science in particular, and, more generally, the development of a healthy democratic society at large. Besides conducting research and implementing data science solutions, I am passionate about teaching and knowledge sharing.
 
 🔭 Experience:
-- Languages: R (advanced), SQL (intermediate), Python, (fundamentals), Bash (fundamentals).
+- Languages: R (advanced), Python (intermediate), SQL (intermediate), Julia (fundamentals), Bash (fundamentals).
 - Statistics: Regression modeling, Factor analysis, Structural Equation Modeling (lavaan), Clustering.
 - CI/CD: GitHub Actions.
 - Containerization tools: Docker.
