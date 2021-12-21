@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, salut, servus, hola, ahoj! 👋
 
-I am a sociologist at the Charles University with a focus on political communication, currently doing my research stay at the Deparment of Communication at the University of Vienna. I am also interested in how technology tools, such as NLP, big data analysis, and machine learning could benefit social science in particular, and, more generally, the development of a healthy democratic society at large. Besides conducting research and implementing data science solutions, I am passionate about teaching and knowledge sharing.
+I am a sociologist at the Charles University with a focus on political communication, currently doing my research stay at the Deparment of Communication at the University of Vienna. I am also interested in how technology tools, such as NLP, big data analysis, and machine learning could benefit social science in particular, and, more generally, the development of a healthy democratic society at large. Besides conducting research and implementing data science solutions, I am passionate about teaching, language learning and knowledge sharing.
 
 🔭 Experience:
 - Languages: R (advanced), Python (intermediate), SQL (intermediate), Julia (fundamentals), Bash (fundamentals).
