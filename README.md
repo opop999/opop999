@@ -16,12 +16,13 @@ I am a sociologist at the Charles University with a focus on political communica
 - Building automatic data pipelines.
 - Advanced data analysis and visualizations.
 
-👯 I am currently working on:
+👯 Projects:
 - Computational analysis of Czech media discourse on migration since 2015.
 - Transparency International: Several solutions for automated data extraction and analysis of social media data in the context of the 2021 Czech parliamentary elections monitoring.
+- Contributed to Facebook's [Radlibrary](https://github.com/facebookresearch) package, which provides a high-level interface for FB Ad Library API in R.
 - Covid pandemic, psychological health, and media sources: Analysis of an international survey dataset from the "Pandemic Emergency in Social Perspective" project.
 - Other projects: NLP analysis of interview transcripts with Holocaust survivors, Web App to aid non-native Czech speakers with syntax using existing models (Deepl, Lindat) with translation into auxiliary language back into Czech.
-- Contributing to the *APIs for social scientists* book with a [chapter](https://bookdown.org/paul/apis_for_social_scientists/facebook-ad-library-api.html) on the usage of Facebook Ad Library API.
+- [Chapter](https://bookdown.org/paul/apis_for_social_scientists/facebook-ad-library-api.html) in the open-source book *APIs for social scientists* on the usage of Facebook Ad Library API.
 
 🤔 I am looking for collaboration on:
 - Exploring the feasibility of Transformer models (BERT/[CZERT](https://github.com/kiv-air/Czert)/[Slavic BERT](https://github.com/deepmipt/Slavic-BERT-NER)) for NLP tasks on Czech (social) media corpus.
