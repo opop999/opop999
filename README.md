@@ -1,14 +1,18 @@
 ### Hi, salut, servus, hola, ahoj! 👋
 
-I am a sociologist at the Charles University with a focus on political communication, currently doing my research stay at the Deparment of Communication at the University of Vienna. I am also interested in how technology tools, such as NLP, big data analysis, and machine learning could benefit social science in particular, and, more generally, the development of a healthy democratic society at large. Besides conducting research and implementing data science solutions, I am passionate about teaching, language learning and knowledge sharing.
+I am a sociologist at the Charles University with a focus on political communication, recently finished my research stay at the Deparment of Communication at the University of Vienna. I am interested in how computational tools, such as Natural Language Processing, could benefit social science in particular, and, more generally, the development of a healthy democratic society at large. Besides conducting research and implementing data science solutions, I am passionate about teaching, language learning and knowledge sharing.
 
 🔭 Experience:
-- Languages: R (advanced), Python (intermediate), SQL (intermediate), Julia (fundamentals), Bash (fundamentals).
-- Statistics: Regression modeling, Factor analysis, Structural Equation Modeling (lavaan), Clustering.
-- CI/CD: GitHub Actions.
+- Languages: R, Python, Bash, operational knowledge of JS, Julia & SQL.
+- NLP & Linguistic methods: named entity recognition, collocations & concordances, word embeddings, sentiment analysis (lexicon & BERT model), semantic analysis (UCREL & UDPIPE features), LDA topic modeling, KW extraction.
+- Statistical methods: sequence analysis, regression modeling, factor analysis, SEM (lavaan), clustering.
+- APIs: Postman.
+- Database software: DBeaver, Google BigQuery.
+- Development environments: RStudio, VS Code.
+- Cloud computing: Google Cloud Platform, Jupyter-based environments (Kaggle, Deepnote, Google Colab, SageMaker Lab), Keboola.
+- Deployement & automation: Netflify, GitHub Actions.
 - Containerization tools: Docker.
-- Cloud & Big Data: Google Cloud Platform, Keboola, Spark.
-- BI tools: Google Data Studio, Power BI, Tableau. 
+- BI tools: Power BI, Tableau. 
 
 🌱 Interested in:
 - End-to-end open source data solutions.
