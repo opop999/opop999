@@ -5,12 +5,12 @@ I am a sociologist at the Charles University with a focus on political communica
 🔭 Experience:
 - Languages: R & Python, operational knowledge of Bash, JS, Julia & SQL.
 - NLP & Linguistic methods: named entity recognition, collocations & concordances, word embeddings, sentiment analysis (lexicon & BERT model), semantic analysis (UCREL & UDPIPE features), LDA topic modeling, KW extraction, document similarity (doc2vec).
-- Statistical methods: sequence analysis, regression modeling, factor analysis, SEM (lavaan), clustering.
+- Statistical methods: sequence analysis, regression modeling, factor analysis, SEM (lavaan), clustering, explainable AI (SHAP).
 - APIs: Postman.
 - Database software: DBeaver, Google BigQuery.
 - Development environments: RStudio, VS Code.
 - Cloud computing: Google Cloud Platform, Jupyter-based environments (Kaggle, Deepnote, Google Colab, SageMaker Lab), Keboola.
-- Deployement & automation: Netflify, GitHub Actions.
+- Deployment & automation: Netflify, GitHub Actions.
 - Containerization tools: Docker.
 - BI tools: Power BI, Tableau. 
 
