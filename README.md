@@ -3,16 +3,15 @@
 I am a sociologist at the Charles University with a focus on political communication, recently finished my research stay at the Deparment of Communication at the University of Vienna. I am interested in how computational tools, such as Natural Language Processing, could benefit social science in particular, and, more generally, the development of a healthy democratic society at large. Besides conducting research and implementing data science solutions, I am passionate about teaching, language learning and knowledge sharing.
 
 🔭 Experience:
-- Languages: R & Python, operational knowledge of Bash, JS, Julia & SQL.
+- Languages: R & Python, operational knowledge of Bash, JS, Julia, SQL and regex.
 - NLP & Linguistic methods: named entity recognition, collocations & concordances, word embeddings, sentiment analysis (lexicon & BERT model), semantic analysis (UCREL & UDPIPE features), LDA topic modeling, KW extraction, document similarity (doc2vec).
 - Statistical methods: sequence analysis, regression modeling, factor analysis, SEM (lavaan), clustering, explainable AI (SHAP).
-- APIs: Postman.
 - Database software: DBeaver, Google BigQuery.
-- Development environments: RStudio, VS Code.
-- Cloud computing: Google Cloud Platform, Jupyter-based environments (Kaggle, Deepnote, Google Colab, SageMaker Lab), Keboola.
+- Cloud computing: Google Cloud Platform, Jupyter-based environments (Kaggle, Deepnote, Colab, SageMaker Lab, Azure ML), Keboola.
 - Deployment & automation: Netflify, GitHub Actions.
 - Containerization tools: Docker.
-- BI tools: Power BI, Tableau. 
+- Other relevant tech experience: RStudio, VS Code, Postman, GraphQL, Power BI, Tableau. 
+
 
 🌱 Interested in:
 - End-to-end open source data solutions.
