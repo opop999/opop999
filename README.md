@@ -8,10 +8,9 @@ I am a sociologist at the Charles University with a focus on political communica
 - Statistical methods: sequence analysis, regression modeling, factor analysis, SEM (lavaan), clustering, explainable AI (SHAP).
 - Database software: DBeaver, Google BigQuery.
 - Cloud computing: Google Cloud Platform, Jupyter-based environments (Kaggle, Deepnote, Colab, SageMaker Lab, Azure ML), Keboola.
-- Deployment & automation: Netflify, GitHub Actions.
+- Deployment & automation: GitHub Actions, Netlify.
 - Containerization tools: Docker.
-- Other relevant tech experience: RStudio, VS Code, Postman, GraphQL, Power BI, Tableau. 
-
+- Other relevant stack: RStudio, VS Code, Postman, GraphQL, Power BI, Tableau. 
 
 🌱 Interested in:
 - End-to-end open source data solutions.
@@ -31,4 +30,3 @@ I am a sociologist at the Charles University with a focus on political communica
 - Exploring the feasibility of Transformer models (BERT/[CZERT](https://github.com/kiv-air/Czert)/[Slavic BERT](https://github.com/deepmipt/Slavic-BERT-NER)) for NLP tasks on Czech (social) media corpus.
 - Object classification and visual sentiment analysis of social media images.
 - Finalization of my code into standalone R libraries (or PL improvements of original packages) so they could benefit others.
-
